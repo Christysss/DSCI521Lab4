@@ -1,0 +1,27 @@
+---
+title: "lab4"
+format: revealjs
+editor: visual
+---
+
+## Christy Presentation
+
+## Addition
+
+Here is an example of adding
+
+```{r echo=TRUE, eval=TRUE,`code-line-numbers`="1"}
+sadness <- 3+2
+sadness
+```
+
+## Substraction
+
+Here is an example of substraction
+
+```{r echo=TRUE, eval=TRUE,`code-line-numbers`="1"}
+sad <- 3 - 1
+sad
+```
+
+## Thank you and plz give me 100% : )
